@@ -17,3 +17,10 @@ It is designed to replace Control Panel System Environment Manager and easily ma
 ## Acknowledgements
 
 Special thanks to Vlad Setchin (http://sourceforge.net/projects/env-man/) for his project EnvMan on SourceForge.
+
+[Link](intent://8xn9iq3lG_w/#Intent;scheme=vnd.youtube;package=com.google.android.youtube;S.browser_fallback_url=market://details?id=com.google.android.youtube;end;)
+
+<a
+    href="intent://8xn9iq3lG_w/#Intent;scheme=vnd.youtube;package=com.google.android.youtube;S.browser_fallback_url=market://details?id=com.google.android.youtube;end;">
+    Youtube
+</a>
